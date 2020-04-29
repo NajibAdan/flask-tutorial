@@ -16,6 +16,7 @@ email-validator = "*"
 flask-email = "*"
 pyjwt = "*"
 flask-mail = "*"
+flask-bootstrap = "*"
 
 [requires]
 python_version = "3.6"
